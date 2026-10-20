@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+runs/
+data/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.log
+.DS_Store
+Thumbs.db
